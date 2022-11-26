@@ -1,0 +1,45 @@
+/* CSS for all */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.textcenter{
+    text-align: center;
+}
+.textright{
+    text-align: right;
+}
+.textleft{
+    text-align: left;
+}
+.pcolor{
+    color: #ff4757;
+}
+.log ul{
+    list-style-type: none;
+}
+.log ul li{
+    display: inline;
+    padding: 5%;
+}
+.log ul li a{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.login1{
+    background-color: #ff4757;
+    color: white;
+    width: 20%;
+    margin: 10% auto;
+    padding: 2%;
+}
+.login2{
+    background-color: #ff4757;
+    color: white;
+    width: 20%;
+    margin: 10% auto;
+    padding: 2%;
+}
